@@ -23,5 +23,3 @@ This project presents an interactive Power BI dashboard designed to analyze fina
 
 The dashboard helps identify revenue trends, monitor expense patterns, and evaluate overall business profitability.
 
-![Dashboard Preview](POWER_BI.png)
-
